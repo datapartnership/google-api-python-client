@@ -1,5 +1,17 @@
 # Changelog
 
+### [2.0.3](https://www.github.com/googleapis/google-api-python-client/compare/v2.0.2...v2.0.3) (2021-03-15)
+
+
+### Bug Fixes
+
+* fix .close() ([#1231](https://www.github.com/googleapis/google-api-python-client/issues/1231)) ([a9583f7](https://www.github.com/googleapis/google-api-python-client/commit/a9583f712d13c67aa282d14cd30e00999b530d7c))
+
+
+### Documentation
+
+* Distinguish between public/private docs in 2.0 guide ([#1226](https://www.github.com/googleapis/google-api-python-client/issues/1226)) ([a6f1706](https://www.github.com/googleapis/google-api-python-client/commit/a6f17066caf6e911b7e94e8feab52fa3af2def1b))
+
 ### [2.0.2](https://www.github.com/googleapis/google-api-python-client/compare/v2.0.1...v2.0.2) (2021-03-04)
 
 
